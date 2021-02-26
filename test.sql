@@ -11,3 +11,5 @@ select getdate();
 select * from tab1;
 
 select * from tab2;
+
+select * from tab3;

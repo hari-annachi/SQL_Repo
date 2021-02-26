@@ -7,3 +7,5 @@ select status_dt, status from dbo.status;
 select id from dbo.control;
 
 select getdate();
+
+select * from tab1;
